@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/svshelton-ui/sportsball/master?urlpath=%2Fvoila%2Frender%2Fsportsball_classifier_code(1).ipynb)
 [English](./README.md) / [Korean](./README_ko.md)
 
 # The fastai book
