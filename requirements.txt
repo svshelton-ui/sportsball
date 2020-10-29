@@ -7,3 +7,6 @@ pandas
 scikit_learn
 azure-cognitiveservices-search-imagesearch
 sentencepiece
+Pillow>=7.1.0
+packaging
+ipywidgets==7.5.1
